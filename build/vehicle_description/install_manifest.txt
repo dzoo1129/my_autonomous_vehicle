@@ -1,0 +1,15 @@
+/home/dz/lio_ws/install/vehicle_description/share/ament_index/resource_index/package_run_dependencies/vehicle_description
+/home/dz/lio_ws/install/vehicle_description/share/ament_index/resource_index/parent_prefix_path/vehicle_description
+/home/dz/lio_ws/install/vehicle_description/share/vehicle_description/environment/ament_prefix_path.sh
+/home/dz/lio_ws/install/vehicle_description/share/vehicle_description/environment/ament_prefix_path.dsv
+/home/dz/lio_ws/install/vehicle_description/share/vehicle_description/environment/path.sh
+/home/dz/lio_ws/install/vehicle_description/share/vehicle_description/environment/path.dsv
+/home/dz/lio_ws/install/vehicle_description/share/vehicle_description/local_setup.bash
+/home/dz/lio_ws/install/vehicle_description/share/vehicle_description/local_setup.sh
+/home/dz/lio_ws/install/vehicle_description/share/vehicle_description/local_setup.zsh
+/home/dz/lio_ws/install/vehicle_description/share/vehicle_description/local_setup.dsv
+/home/dz/lio_ws/install/vehicle_description/share/vehicle_description/package.dsv
+/home/dz/lio_ws/install/vehicle_description/share/ament_index/resource_index/packages/vehicle_description
+/home/dz/lio_ws/install/vehicle_description/share/vehicle_description/cmake/vehicle_descriptionConfig.cmake
+/home/dz/lio_ws/install/vehicle_description/share/vehicle_description/cmake/vehicle_descriptionConfig-version.cmake
+/home/dz/lio_ws/install/vehicle_description/share/vehicle_description/package.xml

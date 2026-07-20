@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+  <link name="ouster_link">
+    <visual>
+      <geometry>
+        <cylinder radius="0.08" length="0.10"/>
+      </geometry>
+      <material name="black">
+        <color rgba="0.1 0.1 0.1 1"/>
+      </material>
+    </visual>
+  </link>
+
+  <joint name="ouster_joint" type="fixed">
+    <parent link="chassis_link"/>
+    <child link="ouster_link"/>
+    <origin xyz="0 0 0.55"/>
+  </joint>
+
+  <link name="imu_link"/>
+
+  <joint name="imu_joint" type="fixed">
+    <parent link="chassis_link"/>
+    <child link="imu_link"/>
+    <origin xyz="0 0 0.20"/>
+  </joint>
+
+</robot>
